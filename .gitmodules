@@ -4,3 +4,6 @@
 [submodule "rFSM"]
 	path = rFSM
 	url = git@github.com:gborghesan/rFSM.git
+[submodule "rtt_dot_service"]
+	path = rtt_dot_service
+	url = git@github.com:gborghesan/rtt_dot_service.git
