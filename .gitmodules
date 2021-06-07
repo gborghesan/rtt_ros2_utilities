@@ -7,3 +7,9 @@
 [submodule "rtt_dot_service"]
 	path = rtt_dot_service
 	url = git@github.com:gborghesan/rtt_dot_service.git
+[submodule "motion_control"]
+	path = motion_control
+	url = git@gitlab.kuleuven.be:rob-hardware/motion_control.git
+[submodule "typekits"]
+	path = typekits
+	url = git@github.com:gborghesan/ros2_rtt_typekits.git
