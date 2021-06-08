@@ -16,4 +16,4 @@ A lua module that allows some auto completion functionalities in the rttlua shel
 Eigen and KDL typekits for orocos
 
 ## motion control
-Some messages and componets to generete trajecotry and make PID control. mainly ported for compatibility.
+Some messages and components to generete trajecotry and make PID control. mainly ported for compatibility.
